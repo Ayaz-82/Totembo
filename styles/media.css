@@ -110,7 +110,9 @@
 }
 
 @media (max-width: 480px) {
-   
+   .news__description {
+      padding: 110px 30px 60px 30px;
+  }
    .main__top-left-top {
       margin-left: 0;   
    }
